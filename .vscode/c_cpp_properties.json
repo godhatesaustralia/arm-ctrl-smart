@@ -1,0 +1,36 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Users/${env:USERNAME}/Documents/Arduino/libraries**",
+                "C:/Users/${env:USERNAME}/Documents/Arduino/libraries/BasicLinearAlgebra**",
+                 "C:/Users/${env:USERNAME}/AppData/Local/Arduino15/packages/arduino/hardware/avr/1.8.8/cores/arduino**",
+                "C:/Users/${env:USERNAME}/AppData/Local/Arduino15/packages/arduino/tools**",
+                "C:/Users/${env:USERNAME}/AppData/Local/Arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/avr/include",
+                "C:/Users/${env:USERNAME}/AppData/Local/Arduino15/packages/arduino/hardware/avr/1.8.8/variants/circuitplay32u4**",
+                "C:/Users/${env:USERNAME}/AppData/Local/Arduino15/packages/arduino/hardware/avr/1.8.8/variants/eightanaloginputs**",
+                "C:/Users/${env:USERNAME}/AppData/Local/Arduino15/packages/arduino/hardware/avr/1.8.8/variants/ethernet**",
+                "C:/Users/${env:USERNAME}/AppData/Local/Arduino15/packages/arduino/hardware/avr/1.8.8/variants/gemma**",
+                "C:/Users/${env:USERNAME}/AppData/Local/Arduino15/packages/arduino/hardware/avr/1.8.8/variants/leonardo**",
+                "C:/Users/${env:USERNAME}/AppData/Local/Arduino15/packages/arduino/hardware/avr/1.8.8/variants/mega**",
+                "C:/Users/${env:USERNAME}/AppData/Local/Arduino15/packages/arduino/hardware/avr/1.8.8/variants/micro**",
+                "C:/Users/${env:USERNAME}/AppData/Local/Arduino15/packages/arduino/hardware/avr/1.8.8/variants/robot_control**",
+                "C:/Users/${env:USERNAME}/AppData/Local/Arduino15/packages/arduino/hardware/avr/1.8.8/variants/robot_motor**",
+                "C:/Users/${env:USERNAME}/AppData/Local/Arduino15/packages/arduino/hardware/avr/1.8.8/variants/yun**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.26100.0",
+            "compilerPath": "cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-msvc-x64"
+        }
+    ],
+    "version": 4
+}
