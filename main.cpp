@@ -23,6 +23,10 @@ namespace smart_arm
 
     void loop()
     {
-
+        Vector3D a, b, c;
+        a = Vector3D(1, 3, 5);
+        double d = 7;
+        b = a * d;
+        c = a + b;
     }
 }
