@@ -36,7 +36,7 @@ try:
                         #Write row to CSV
                         writer.writerow([timestamp, proc_time, angle])
                         
-                        #Print live status to your terminal window
+                        #Print live status to terminal window
                         print(f"[{timestamp}ms] Proc Time: {proc_time} us | Angle: {angle}°")
                         
                     except ValueError:
